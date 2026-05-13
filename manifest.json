@@ -1,0 +1,14 @@
+{
+  "name": "泰迪生活 Thaidee Life",
+  "short_name": "泰迪生活",
+  "description": "一站式台灣人在泰的生活服務平台",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F2EA",
+  "theme_color": "#8B3A1A",
+  "lang": "zh-TW",
+  "icons": [
+    { "src": "/images/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/images/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
