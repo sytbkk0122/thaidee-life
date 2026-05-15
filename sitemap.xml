@@ -90,6 +90,13 @@
     <priority>0.7</priority>
   </url>
 
+  <url>
+    <loc>https://thaidee-life.vercel.app/blog/article-09-bangkok-cost-of-living.html</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
   <!-- 關於頁面 -->
   <url>
     <loc>https://thaidee-life.vercel.app/about.html</loc>
